@@ -5,7 +5,7 @@ compose = "1.9.3"
 compose-material3 = "1.4.0"
 androidx-activityCompose = "1.10.0"
 foundationAndroid = "1.7.7"
-kotlinxDatetime = "0.6.1"
+kotlinxDatetime = "0.7.1-0.6.x-compat"
 media3Common = "1.8.0"
 
 [libraries]
